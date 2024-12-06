@@ -1,6 +1,6 @@
 <body>
   <p>
-      <h4> Projeto Integrado Multidisciplinar do segundo semeestre, desenvolvido em grupo na UNIP para criação programas de apoio ao funcionamento de um estabelecimento comercial hortifruti. </h4>  
+      <h4> Projeto Integrado Multidisciplinar do segundo semestre, desenvolvido em grupo na UNIP para criação programas de apoio ao funcionamento de um estabelecimento comercial hortifruti. </h4>  
   </p> 
 </body>
 
